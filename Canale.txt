@@ -1,0 +1,35 @@
+channels=17
+channel1=Radio Vocea Evangheliei Timisoara
+channeladress1=http://rve-tm.infoo.ro:8000/rve.mp3
+channel2=Alfa Omega TV
+channeladress2=http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
+channel3=Alfa Omega TV International
+channeladress3=http://s5.alfaomega.tv:1935/aotvi/aotvi.sdp/playlist.m3u8
+channel4=Betel Timisoara
+channeladress4=http://91.216.75.214:1935/betel1/live1/playlist.m3u8
+channel5=Numarul 2 Timisoara
+channeladress5=http://91.216.75.214:1935/bis2/live/playlist.m3u8
+channel6=Emanuel Timisoara
+channeladress6=http://iphone-streaming.ustream.tv/uhls/4474570/streams/live/iphone/playlist.m3u8
+channel7=Golgota Timisoara
+channeladress7=http://iphone-streaming.ustream.tv/uhls/14807239/streams/live/iphone/playlist.m3u8
+channel8=Betania Timisoara
+channeladress8=http://91.216.75.214:1935/betania-tm/live1/playlist.m3u8
+channel9=Harul Timisoara
+channeladress9=http://h2.bisericilive.com/hls/harultmro.m3u8
+channel10=Elim Timisoara
+channeladress10=http://s1.stream.maghost.ro:1935/live/smil:elim.smil/playlist.m3u8
+channel11=Poarta Cerului Timisoara
+channeladress11=http://h2.bisericilive.com/hls/poartaceruluiro.m3u8
+channel12=Speranta Timisoara
+channeladress12=http://h2.bisericilive.com/hls/sperantatmro.m3u8
+channel13=Aletheia Timisoara
+channeladress13=http://91.216.75.210:1935/aletheia-tm/live2/playlist.m3u8
+channel14=The Salvation Poem - Queen Esther
+channeladress14=http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=2591653783001&videoId=2591627050001
+channel15=The Salvation Poem - He Is Risen!
+channeladress15=http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=2450481609001&videoId=2147104873001
+channel16=The Salvation Poem - The Ten Commandments
+channeladress16=http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=2540256132001&videoId=2540235485001
+channel17=The Salvation Poem - Multi-Lingual
+channeladress17=http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=2563917513001&videoId=2563809090001
