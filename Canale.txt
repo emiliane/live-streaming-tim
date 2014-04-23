@@ -1,4 +1,4 @@
-channels=17
+channels=13
 channel1=Radio Vocea Evangheliei Timisoara
 channeladress1=http://rve-tm.infoo.ro:8000/rve.mp3
 channel2=Alfa Omega TV
@@ -25,11 +25,3 @@ channel12=Speranta Timisoara
 channeladress12=http://h2.bisericilive.com/hls/sperantatmro.m3u8
 channel13=Aletheia Timisoara
 channeladress13=http://91.216.75.210:1935/aletheia-tm/live2/playlist.m3u8
-channel14=The Salvation Poem - Queen Esther
-channeladress14=http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=2591653783001&videoId=2591627050001
-channel15=The Salvation Poem - He Is Risen!
-channeladress15=http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=2450481609001&videoId=2147104873001
-channel16=The Salvation Poem - The Ten Commandments
-channeladress16=http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=2540256132001&videoId=2540235485001
-channel17=The Salvation Poem - Multi-Lingual
-channeladress17=http://c.brightcove.com/services/mobile/streaming/index/rendition.m3u8?assetId=2563917513001&videoId=2563809090001
