@@ -6,3 +6,6 @@ http://radio.adi.ro:8000/live_better.mp3
 
 Radio Unison
 http://audio.radiounisonro.bisericilive.com:8080/radiounisonro.mp3
+
+Cum pot răsplăti eu
+http://radiounison.ro/Resurse/Muzica/Muzica%20Biserica%20Harul/Cum%20pot%20rasplati%20eu.mp3
