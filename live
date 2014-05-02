@@ -1,3 +1,5 @@
+settings_url=https://live-streaming-tim.googlecode.com/git/live
+minutes_to_update=3
 channels=13
 channel1=Radio Vocea Evangheliei Timisoara
 channeladress1=http://rve-tm.infoo.ro:8000/rve.mp3
