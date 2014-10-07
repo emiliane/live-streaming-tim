@@ -1,6 +1,6 @@
 settings_url=https://live-streaming-tim.googlecode.com/git/live
 minutes_to_update=3
-channels=16
+channels=17
 channel1=Radio Vocea Evangheliei Timisoara
 channeladress1=http://rve-tm.infoo.ro:8000/rve.mp3
 channel2=Alfa Omega TV
@@ -33,3 +33,5 @@ channel15=Radio Unison
 channeladress15=http://audio.radiounisonro.bisericilive.com:8080/radiounisonro.mp3
 channel16=Speranta Oradea
 channeladress16=http://h2.bisericilive.com/hls/bbsoro.m3u8
+channel17=Radio Vocea Evangheliei Suceava
+channeladress17=http://77.92.76.134/mobile.php?port=7280
