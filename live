@@ -27,3 +27,5 @@ channel12=Speranta Timisoara
 channeladress12=http://h2.bisericilive.com/hls/sperantatmro.m3u8
 channel13=Aletheia Timisoara
 channeladress13=http://91.216.75.210:1935/aletheia-tm/live2/playlist.m3u8
+channel13=Hope Channel
+channeladress13=http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-1/index.m3u8
