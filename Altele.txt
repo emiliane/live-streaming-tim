@@ -1,11 +1,8 @@
+CBN TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201592/734546207001_1/master.m3u8
+
 Smile of a Child TV
 http://ooyalahd2-f.akamaihd.net/i/tbn04_delivery@149649/master.m3u8
-
-Radio Cireșarii
-http://radio.adi.ro:8000/live_better.mp3
-
-Radio Unison
-http://audio.radiounisonro.bisericilive.com:8080/radiounisonro.mp3
 
 Cum pot răsplăti eu
 http://radiounison.ro/Resurse/Muzica/Muzica%20Biserica%20Harul/Cum%20pot%20rasplati%20eu.mp3
