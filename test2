@@ -1,5 +1,7 @@
 settings_url=https://live-streaming-tim.googlecode.com/git/test1
 minutes_to_update=0
 channels=19
-channel1=Radio 2
+channel1=Radio 1
 channeladress1=http://rve-tm.infoo.ro:8000/rve.mp3
+channel2=Radio 2
+channeladress2=http://rve-tm.infoo.ro:8000/rve.mp3
