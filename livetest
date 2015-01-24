@@ -1,14 +1,21 @@
 settings_url=https://live-streaming-tim.googlecode.com/git/live
 minutes_to_update=3
-channels=2
-channel1=Evenimente
+
+channels=4
+
+channel1=Evenimente .210
 channeladress1=http://91.216.75.210:1935/evenimente/live2/playlist.m3u8
-channel2=Radio Evenimente DVR
+
+channel2=Radio Evenimente DVR .210
 channeladress2=http://91.216.75.210:1935/evenimente/live2/playlist.m3u8?DVR
-channel3=Radio Cireșarii
-channeladress3=http://radio.adi.ro:8000/live_better.mp3
-channel4=Radio Unison
-channeladress4=http://audio.radiounisonro.bisericilive.com:8080/radiounisonro.mp3
+
+channel3=Evenimente .214
+channeladress3=http://91.216.75.214:1935/evenimente/live2/playlist.m3u8
+
+channel4=Evenimente DVR .214
+channeladress4=http://91.216.75.214:1935/evenimente/live2/playlist.m3u8?DVR
+
+
 channel5=Radio Ekklesia
 channeladress5=http://asculta.radioekklesia.com:8000/listen.pls
 channel6=Radio Filadelfia
