@@ -1,7 +1,14 @@
 #EXTM3U
-
-#EXTINF:123, Sample artist - Sample title
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
 http://radio.adi.ro:8000/live_better.mp3
-
-#EXTINF:321,Example Artist - Example title
-http://radio.adi.ro:8000/live_better.mp3
+#EXTINF:10.0,
+http://example.com/movie1/fileSequenceB.ts
+#EXTINF:10.0,
+http://example.com/movie1/fileSequenceC.ts
+#EXTINF:9.0,
+http://example.com/movie1/fileSequenceD.ts
+#EXT-X-ENDLIST
