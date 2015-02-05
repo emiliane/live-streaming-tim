@@ -1,0 +1,5 @@
+settings_url=https://live-streaming-tim.googlecode.com/git/test/live
+minutes_to_update=0
+channels=1
+channel1=Yo m3u8 google 
+channeladress1=https://live-streaming-tim.googlecode.com/git/test/yo.m3u8
