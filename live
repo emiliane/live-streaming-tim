@@ -1,6 +1,6 @@
 settings_url=https://live-streaming-tim.googlecode.com/git/live
 minutes_to_update=3
-channels=25
+channels=26
 channel1=Radio Vocea Evangheliei Timișoara
 channeladress1=http://rvetm.infoo.ro:8624/rvetm.mp3
 channel2=Radio Vocea Evangheliei Suceava
@@ -51,3 +51,5 @@ channel24=Speranța Oradea
 channeladress24=http://h2.bisericilive.com/hls/bbsoro.m3u8
 channel25=Agape Timișoara
 channeladress25=http://s1.stream.maghost.ro:1938/live/smil:streams.smil/playlist.m3u8
+channel26=RTN Chicago
+channeladress26=http://91.216.75.214:1935/rtn/live/playlist.m3u8?dvr
