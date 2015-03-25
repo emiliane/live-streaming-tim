@@ -1,4 +1,4 @@
-settings_url=https://live-streaming-tim.googlecode.com/git/live
+settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live
 minutes_to_update=3
 channels=26
 channel1=Radio Vocea Evangheliei Timișoara
