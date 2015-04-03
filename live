@@ -56,7 +56,7 @@ channel26=Alfa Omega TV
 channeladress26=http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
 channel27=Cireșarii TV
 channeladress27=http://h2.bisericilive.com/hls/ciresariitv.m3u8
-channel28=RTN Chicago
-channeladress28=http://server1.infoo.tv:1935/rtn/live/playlist.m3u8?dvr
+channel28=CBN TV
+channeladress28=http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
 channel29=Smile of a Child TV
 channeladress29=http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
