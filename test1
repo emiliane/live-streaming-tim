@@ -1,8 +1,8 @@
 settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live
 minutes_to_update=3
 channels=26
-channel1=K-LOVE
-channeladress1=http://emf.mp3.miisolutions.net/kl/klove_newmedia_web_high
+channel1=SUPERBOOK RADIO
+channeladress1=http://mp3.cbn.com/stream/cbn_cbnradio4
 channel2=Radio Vocea Evangheliei Suceava
 channeladress2=http://77.92.76.134/mobile.php?port=7280
 channel3=Radio Cireșarii
