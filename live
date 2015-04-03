@@ -1,7 +1,7 @@
 settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live
 resolve_hostname=no
 minutes_to_update=3
-channels=27
+channels=28
 channel1=K-LOVE
 channeladress1=http://emf.mp3.miisolutions.net/kl/klove_mapp
 channel2=Radio Vocea Evangheliei Timișoara
@@ -56,3 +56,5 @@ channel26=Agape Timișoara
 channeladress26=http://s1.stream.maghost.ro:1938/live/smil:streams.smil/playlist.m3u8
 channel27=RTN Chicago
 channeladress27=http://91.216.75.214:1935/rtn/live/playlist.m3u8?dvr
+channel28=Smile of a Child TV
+channeladress28=http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
