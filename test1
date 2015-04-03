@@ -1,8 +1,8 @@
 settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live
 minutes_to_update=3
 channels=26
-channel1=SUPERBOOK RADIO
-channeladress1=http://mp3.cbn.com/stream/cbn_cbnradio4
+channel1=Superbook Kids Radio
+channeladress1=http://00-superbook-128.akacast.akamaistream.net/7/831/148610/v1/00.akacast.akamaistream.net/00-superbook-128
 channel2=Radio Vocea Evangheliei Suceava
 channeladress2=http://77.92.76.134/mobile.php?port=7280
 channel3=Radio Cireșarii
