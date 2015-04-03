@@ -1,25 +1,8 @@
 settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live
 resolve_hostname=no
 minutes_to_update=3
-channels=29
-channel1=K-LOVE
-channeladress1=http://emf.mp3.miisolutions.net/kl/klove_mapp
-channel2=Radio Vocea Evangheliei Timișoara
-channeladress2=http://rvetm.infoo.ro:8624/rvetm.mp3
-channel3=Radio Vocea Evangheliei Suceava
-channeladress3=http://77.92.76.134/mobile.php?port=7280
-channel4=Radio Cireșarii
-channeladress4=http://radio.adi.ro:8000/live_better.mp3
-channel5=Radio Unison
-channeladress5=http://audio.radiounisonro.bisericilive.com:8080/radiounisonro.mp3
-channel6=Radio Ekklesia
-channeladress6=http://asculta.radioekklesia.com:8000/listen.pls
-channel7=Radio Filadelfia
-channeladress7=http://asculta.radiofiladelfia.ro:8000/listen.pls
-channel8=Alfa Omega TV
-channeladress8=http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
-channel9=Cireșarii TV
-channeladress9=http://h2.bisericilive.com/hls/ciresariitv.m3u8
+channels=100
+
 channel10=Betel Timișoara
 channeladress10=http://server3.infoo.tv:1935/betel1/live1/playlist.m3u8?dvr
 channel11=Numărul doi Timișoara
@@ -54,9 +37,29 @@ channel25=Speranța Oradea
 channeladress25=http://h2.bisericilive.com/hls/bbsoro.m3u8
 channel26=Agape Timișoara
 channeladress26=http://s1.stream.maghost.ro:1938/live/smil:streams.smil/playlist.m3u8
-channel27=RTN Chicago
-channeladress27=http://91.216.75.214:1935/rtn/live/playlist.m3u8?dvr
-channel28=Smile of a Child TV
-channeladress28=http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-channel29=Superbook Kids Radio
-channeladress29=http://00-superbook-128.akacast.akamaistream.net/7/831/148610/v1/00.akacast.akamaistream.net/00-superbook-128
+
+channel60=Radio Vocea Evangheliei Timișoara
+channeladress60=http://rvetm.infoo.ro:8624/rvetm.mp3
+channel61=Radio Vocea Evangheliei Suceava
+channeladress61=http://77.92.76.134/mobile.php?port=7280
+channel62=Radio Cireșarii
+channeladress62=http://radio.adi.ro:8000/live_better.mp3
+channel63=Radio Unison
+channeladress63=http://audio.radiounisonro.bisericilive.com:8080/radiounisonro.mp3
+channel64=Radio Ekklesia
+channeladress64=http://asculta.radioekklesia.com:8000/listen.pls
+channel65=Radio Filadelfia
+channeladress65=http://asculta.radiofiladelfia.ro:8000/listen.pls
+channel66=K-LOVE
+channeladress66=http://emf.mp3.miisolutions.net/kl/klove_mapp
+channel67=Superbook Kids Radio
+channeladress67=http://00-superbook-128.akacast.akamaistream.net/7/831/148610/v1/00.akacast.akamaistream.net/00-superbook-128
+
+channel80=Alfa Omega TV
+channeladress80=http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
+channel81=Cireșarii TV
+channeladress81=http://h2.bisericilive.com/hls/ciresariitv.m3u8
+channel82=RTN Chicago
+channeladress82=http://91.216.75.214:1935/rtn/live/playlist.m3u8?dvr
+channel83=Smile of a Child TV
+channeladress83=http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
