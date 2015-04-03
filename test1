@@ -2,7 +2,6 @@ settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/maste
 resolve_hostname=no
 minutes_to_update=3
 channels=28
-
 channel1=Betel Timișoara
 channeladress1=http://server3.infoo.tv:1935/betel1/live1/playlist.m3u8?dvr
 channel2=Numărul doi Timișoara
