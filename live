@@ -37,7 +37,7 @@ channeladress16=http://s1.stream.maghost.ro:1938/live/smil:streams.smil/playlist
 channel17=Radio Vocea Evangheliei Timișoara
 channeladress17=http://rvetm.infoo.ro:8624/rvetm.mp3
 channel18=Radio Vocea Evangheliei Suceava
-channeladress18=http://77.92.76.134/mobile.php?port=7280
+channeladress18=http://77.92.76.134:7280/listen.pls
 channel19=Radio Cireșarii
 channeladress19=http://radio.adi.ro:8000/live_better.mp3
 channel20=Radio Unison
