@@ -1,7 +1,7 @@
 settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live
 resolve_hostname=no
 minutes_to_update=0
-channels=33
+channels=34
 channel1=Betel Timișoara
 channeladress1=http://server1.infoo.tv:1935/betel1/smil:livetr54.smil/playlist.m3u8?dvr
 channel2=Numărul doi Timișoara
@@ -68,3 +68,5 @@ channel32=CBN TV
 channeladress32=http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
 channel33=Smile of a Child TV
 channeladress33=http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+channel34=Credo TV
+channeladress34=http://wowzaprodhd26-lh.akamaihd.net/i/24b4cd72_1@313326/master.m3u8
