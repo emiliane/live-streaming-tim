@@ -66,13 +66,13 @@ channel31=Cireșarii TV
 channeladress31=http://h2.bisericilive.com/hls/ciresariitv.m3u8
 channel32=Credo TV
 channeladress32=http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-channel33=Smile of a Child TV
-channeladress33=http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-channel34=CBN TV
-channeladress34=http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
-channel35=JUCE TV
-channeladress35=http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-channel36=TBN TV
-channeladress36=http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
-channel37=The Church Channel
-channeladress37=http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+channel33=CBN TV
+channeladress33=http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
+channel34=TBN TV
+channeladress34=http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+channel35=The Church Channel
+channeladress35=http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+channel36=JUCE TV
+channeladress36=http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+channel37=Smile of a Child TV
+channeladress37=http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
