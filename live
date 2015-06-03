@@ -1,7 +1,7 @@
 settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live
 resolve_hostname=no
 minutes_to_update=0
-channels=39
+channels=40
 channel1=Betel Timișoara
 channeladress1=http://server1.infoo.tv:1935/betel1/smil:livetr54.smil/playlist.m3u8?dvr
 channel2=Numărul doi Timișoara
@@ -80,3 +80,5 @@ channel38=Smile of a Child TV
 channeladress38=http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 channel39=Dieu TV
 channeladress39=http://abrlive.miraclemediatv.com/dieutvmain.m3u8
+channel40=Essentiel Radio
+channeladress40=http://str81.streamakaci.com:80/
