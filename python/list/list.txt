@@ -86,6 +86,10 @@ http://emf.mp3.miisolutions.net/a1/air1_mapp.m3u
 http://208.43.60.69:8001/wmit
 Essentiel Radio
 http://str81.streamakaci.com/listen/
+Essentiel Radio fr
+http://essentielradioing.streamakaci.com/essentielfr.mp3
+Essentiel Radio Kidz
+http://essentielradioing.streamakaci.com/essentielsweet.mp3
 Superbook Kids Radio
 http://00-superbook-128.akacast.akamaistream.net/7/831/148610/v1/00.akacast.akamaistream.net/00-superbook-128
 — Altele —
