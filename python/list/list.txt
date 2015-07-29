@@ -84,6 +84,8 @@ K-LOVE France
 http://emf.mp3.miisolutions.net/klfr/K-LOVE_France.m3u
 Air1
 http://emf.mp3.miisolutions.net/a1/air1_mapp.m3u
+106.9 The Light
+http://208.43.60.69:8001/wmit
 Superbook Kids Radio
 http://00-superbook-128.akacast.akamaistream.net/7/831/148610/v1/00.akacast.akamaistream.net/00-superbook-128
 — Altele —
