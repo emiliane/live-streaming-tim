@@ -20,8 +20,6 @@ Smile of a Child TV
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 Dieu TV
 http://abrlive.miraclemediatv.com/dieutvmain.m3u8
-Essentiel Radio
-http://str81.streamakaci.com/listen/
 GOD TV
 http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
 — În direct -
@@ -86,6 +84,8 @@ Air1
 http://emf.mp3.miisolutions.net/a1/air1_mapp.m3u
 106.9 The Light
 http://208.43.60.69:8001/wmit
+Essentiel Radio
+http://str81.streamakaci.com/listen/
 Superbook Kids Radio
 http://00-superbook-128.akacast.akamaistream.net/7/831/148610/v1/00.akacast.akamaistream.net/00-superbook-128
 — Altele —
