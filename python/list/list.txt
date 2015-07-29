@@ -1,3 +1,32 @@
+
+- TV -
+-
+Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
+Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+Cireșarii TV
+http://h2.bisericilive.com/hls/ciresariitv.m3u8
+CBN TV
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
+CBN TV » NEWS
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3958377906001
+TBN TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+The Church Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+Smile of a Child TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+Dieu TV
+http://abrlive.miraclemediatv.com/dieutvmain.m3u8
+Essentiel Radio
+http://str81.streamakaci.com/listen/
+GOD TV
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+— În direct -
+-
 Betel Timișoara
 http://server3.infoo.tv:1935/betel1/smil:live1-720x576-transcoder.smil/playlist.m3u8?dvr
 Numărul doi Timișoara
@@ -30,6 +59,8 @@ Dragostea Arad
 http://server3.infoo.tv:1935/dragostea/live1/playlist.m3u8?dvr
 Speranța Oradea
 http://h2.bisericilive.com/hls/bbsoro.m3u8
+- Radio -
+-
 Radio Vocea Evangheliei București
 http://77.92.76.134:7140/listen.pls
 Radio Vocea Evangheliei Cluj
@@ -56,32 +87,8 @@ Air1
 http://emf.mp3.miisolutions.net/a1/air1_mapp.m3u
 Superbook Kids Radio
 http://00-superbook-128.akacast.akamaistream.net/7/831/148610/v1/00.akacast.akamaistream.net/00-superbook-128
-Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
-Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-Cireșarii TV
-http://h2.bisericilive.com/hls/ciresariitv.m3u8
-CBN TV
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
-CBN TV » NEWS
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3958377906001
-TBN TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
-The Church Channel
-http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
-JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-Smile of a Child TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-Dieu TV
-http://abrlive.miraclemediatv.com/dieutvmain.m3u8
-Essentiel Radio
-http://str81.streamakaci.com/listen/
-GOD TV
-http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
----
--
+— Altele —
+—
 NHK WORLD TV
 http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8
 Digi24
