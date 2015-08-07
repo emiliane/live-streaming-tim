@@ -76,6 +76,22 @@ Radio Ekklesia
 http://37.59.224.236:8000/listen.pls
 Radio Cireșarii
 http://radio.adi.ro:8000/live_better.mp3
+CBN Radio Contemporary
+http://mp3.cbn.com/stream/cbn_cbnradio1
+CBN Radio Praise
+http://mp3.cbn.com/stream/cbn_cbnradio2
+CBN Radio Gospel
+http://mp3.cbn.com/stream/cbn_cbnradio3
+CBN Radio Superbook
+http://mp3.cbn.com/stream/cbn_cbnradio4
+CBN Radio CROSS Country
+http://mp3.cbn.com/stream/cbn_cbnradio5
+CBN Radio News
+http://mp3.cbn.com/stream/cbn_cbnradio7
+CBN Radio Christmas
+http://mp3.cbn.com/stream/cbn_cbnradio6
+CBN Radio Country Christmas
+http://mp3.cbn.com/stream/cbn_cbnradio8
 K-LOVE
 http://emf.mp3.miisolutions.net/kl/klove_mapp.m3u
 K-LOVE France
