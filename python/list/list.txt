@@ -85,7 +85,7 @@ http://emf.mp3.miisolutions.net/a1/air1_mapp.m3u
 106.9 The Light
 http://208.43.60.69:8001/wmit
 Essentiel Radio
-http://str81.streamakaci.com/listen/
+http://str81.streamakaci.com/;
 Essentiel Radio fr
 http://essentielradioing.streamakaci.com/essentielfr.mp3
 Essentiel Radio Kidz
