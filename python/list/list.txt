@@ -67,7 +67,7 @@ http://yp.shoutcast.com/sbin/tunein-station.m3u?id=88537
 Radio Vocea Evangheliei Suceava
 http://77.92.76.134:7280/listen.pls
 Radio Vocea Evangheliei Timișoara
-http://rvetm.infoo.ro:8624/rvetm.mp3
+http://rvetm.infoo.ro:8624/rvetmaac
 Radio Filadelfia
 http://asculta.radiofiladelfia.ro:8000/listen.pls
 Radio Unison
