@@ -71,7 +71,7 @@ channeladress33=http://yp.shoutcast.com/sbin/tunein-station.m3u?id=88537
 channel34=Radio Vocea Evangheliei Suceava
 channeladress34=http://77.92.76.134:7280/listen.pls
 channel35=Radio Vocea Evangheliei Timișoara
-channeladress35=http://rvetm.infoo.ro:8624/rvetm.mp3
+channeladress35=http://rvetm.infoo.ro:8624/rvetmaac
 channel36=Radio Filadelfia
 channeladress36=http://asculta.radiofiladelfia.ro:8000/listen.pls
 channel37=Radio Unison
