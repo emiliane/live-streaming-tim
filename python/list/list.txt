@@ -28,12 +28,6 @@ Revelation TV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/playlist.m3u8
 UCB TV
 http://llnw.live.simplestream.com/hera/remote/ucbtv_primary_sdi1/live.m3u8
-UCB UK
-http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi2/live.m3u8
-UCB Inspirational
-http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi3/live.m3u8
-UCB Gospel
-http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi4/live.m3u8
 ERF TV
 http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
 — În direct -
@@ -106,6 +100,12 @@ CBN Christmas Radio
 http://mp3.cbn.com/stream/cbn_cbnradio6
 CBN Radio Country Christmas
 http://mp3.cbn.com/stream/cbn_cbnradio8
+UCB UK
+http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi2/live.m3u8
+UCB Inspirational
+http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi3/live.m3u8
+UCB Gospel
+http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi4/live.m3u8
 K-LOVE
 http://emf.mp3.miisolutions.net/kl/klove_mapp.m3u
 K-LOVE France
