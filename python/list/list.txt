@@ -22,6 +22,8 @@ Dieu TV
 http://abrlive.miraclemediatv.com/dieutvmain.m3u8
 GOD TV
 http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+ERF TV
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
 — În direct -
 -
 Betel Timișoara
