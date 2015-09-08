@@ -26,6 +26,14 @@ Harvest TV
 http://live.wmncdn.net/harvesttvlive/157ddc3438afcd621f1d277258f53f66.sdp/playlist.m3u8
 Revelation TV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel11/hls/playlist.m3u8
+UCB TV
+http://llnw.live.simplestream.com/hera/remote/ucbtv_primary_sdi1/live.m3u8
+UCB UK
+http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi2/live.m3u8
+UCB Inspirational
+http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi3/live.m3u8
+UCB Gospel
+http://llnw.live.simplestream.com/hera/remote/ucbrad_primary_sdi4/live.m3u8
 ERF TV
 http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
 — În direct -
