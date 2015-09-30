@@ -44,6 +44,8 @@ Betania Timișoara
 http://server3.infoo.tv:1935/betania-tm/live1/playlist.m3u8?dvr
 Harul Timișoara
 http://h2.bisericilive.com/hls/harultmro.m3u8
+Eclesia Timișoara
+http://server3.infoo.tv:1935/eclesia/live1/playlist.m3u8?dvr
 Elim Timișoara
 http://s1.stream.maghost.ro:1935/elim/smil:elim.smil/playlist.m3u8
 Poarta Cerului Timișoara
