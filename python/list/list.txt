@@ -131,10 +131,10 @@ http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8
 Digi24
 http://82.76.249.77/digi24edge/digi24hdhqhls/index.m3u8
 Wildlife România - Carani
-http://server3.infoo.tv:1935/berze/berze.stream_source_aac/playlist.m3u8?dvr
+http://ss199.infoo.tv:1935/wildliferomania1/carani.stream_aac/playlist.m3u8?DVR
 Wildlife România - Cărpiniș
-http://server3.infoo.tv:1935/berze2/berze2.stream_source_aac/playlist.m3u8?dvr
+http://ss199.infoo.tv:1935/wildliferomania2/carpinis.stream_aac/playlist.m3u8?DVR
 Wildlife România - Hrănitoare păsări
-http://server3.infoo.tv:1935/food/food.stream_source_aac/playlist.m3u8?dvr
+http://ss199.infoo.tv:1935/wildliferomania3/hranitoare.stream_aac/playlist.m3u8?DVR
 Wildlife România - Șoimul dumărean
-http://server3.infoo.tv:1935/cuib4/cuib4.stream_source_aac/playlist.m3u8?dvr
+http://ss199.infoo.tv:1935/wildliferomania4/soim.stream_aac/playlist.m3u8?DVR
