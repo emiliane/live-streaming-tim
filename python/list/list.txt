@@ -69,7 +69,7 @@ http://server3.infoo.tv:1935/dragostea/live1/playlist.m3u8?dvr
 Speranța Oradea
 http://m0.bisericilive.com/video/bbsoro/live/bbsoro.m3u8
 Betania Sibiu
-http://iphone-streaming.ustream.tv/uhls/7158318/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/7158318/streams/live/iphone/playlist.m3u8?dvr
 - Radio -
 -
 Radio Vocea Evangheliei București
