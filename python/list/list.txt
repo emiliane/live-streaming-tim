@@ -67,7 +67,7 @@ http://server3.infoo.tv:1935/harul/live1/playlist.m3u8?dvr
 Dragostea Arad
 http://server3.infoo.tv:1935/dragostea/live1/playlist.m3u8?dvr
 Speranța Oradea
-http://h2.bisericilive.com/hls/bbsoro.m3u8
+http://m0.bisericilive.com/video/bbsoro/live/bbsoro.m3u8
 - Radio -
 -
 Radio Vocea Evangheliei București
