@@ -33,7 +33,7 @@ http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/
 — În direct -
 -
 Betel Timișoara
-http://server3.infoo.tv:1935/betel1/smil:live1-720x576-transcoder.smil/playlist.m3u8?dvr
+http://server3.infoo.tv:1935/betel1/live1/playlist.m3u8?dvr
 Numărul doi Timișoara
 http://server3.infoo.tv:1935/bis2/live/playlist.m3u8?dvr
 Emanuel Timișoara
