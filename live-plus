@@ -1,4 +1,4 @@
-settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live
+settings_url=https://raw.githubusercontent.com/emiliane/live-streaming-tim/master/live-plus
 resolve_hostname=no
 minutes_to_update=0
 channels=72
@@ -38,7 +38,7 @@ channel17=— În direct -
 channeladress17=-
 channel18=Betel Timișoara
 channeladress18=http://server3.infoo.tv:1935/betel1/live1/playlist.m3u8?dvr
-channel19=Betel Timișoara 2
+channel19=Betel Timișoara live
 channeladress19=http://server3.infoo.tv:1935/betel1/live1/playlist.m3u8
 channel20=Emanuel Timișoara
 channeladress20=http://server3.infoo.tv:1935/bis3/live2/playlist.m3u8?dvr
