@@ -36,8 +36,6 @@ Betel Timișoara
 http://server3.infoo.tv:1935/betel1/smil:betel-timisoara.smil/playlist.m3u8?dvr
 Numărul doi Timișoara
 http://server3.infoo.tv:1935/bis2/live/playlist.m3u8?dvr
-Emanuel Timișoara
-http://server3.infoo.tv:1935/bis3/live2/playlist.m3u8?dvr
 Golgota Timișoara
 http://server3.infoo.tv:1935/bis4/live1/playlist.m3u8?dvr
 Betania Timișoara
