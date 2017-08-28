@@ -51,7 +51,7 @@ http://server3.infoo.tv:1935/stanca/live1/playlist.m3u8?dvr
 Elim Timișoara
 http://s1.stream.maghost.ro:1935/elim/smil:elim.smil/playlist.m3u8
 Poarta Cerului Timișoara
-http://m0.bisericilive.com/video/poartaceruluiro/live/poartaceruluiro.m3u8
+https://poartaceruluiro.bisericilive.com/live/poartaceruluiro.m3u8
 Speranța Timișoara
 http://m0.bisericilive.com/video/sperantatmro/live/sperantatmro.m3u8
 Aletheia Timișoara
