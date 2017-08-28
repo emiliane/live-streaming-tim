@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 file = open('list.txt','r')
+tryWithoutDVR = True #True/False
+
 
 with file as f:
     i = 0
@@ -19,14 +21,15 @@ with file as f:
 
         i = i + 1
 
-        isDVR = line.strip()[-4:].lower()
-        if isDVR == "?dvr":
-            channelNumber = str(int(i / 2) + 1)
-            i = i + 2
+        if tryWithoutDVR:
+            isDVR = line.strip()[-4:].lower()
+            if isDVR == "?dvr":
+                channelNumber = str(int(i / 2) + 1)
+                i = i + 2
 
-            fine1 = "channel" + channelNumber + "=" + prevline + " 2"
-            fine2 = "channeladress" + channelNumber + "=" + line[:-4]
-            print (fine1)
-            print (fine2)
+                fine1 = "channel" + channelNumber + "=" + prevline + " 2"
+                fine2 = "channeladress" + channelNumber + "=" + line[:-4]
+                print (fine1)
+                print (fine2)
 
         prevline = line
