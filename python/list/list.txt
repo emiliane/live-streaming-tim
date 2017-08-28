@@ -5,7 +5,7 @@ http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 Cireșarii TV
-http://m0.bisericilive.com/video/ciresariitv/live/ciresariitv-2.m3u8
+https://ciresariitv.bisericilive.com/live/ciresariitv.m3u8
 CBN TV
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
 CBN TV » NEWS
@@ -43,7 +43,7 @@ http://server3.infoo.tv:1935/bis4/live1/playlist.m3u8?dvr
 Betania Timișoara
 http://server3.infoo.tv:1935/betania-tm/live1/playlist.m3u8?dvr
 Harul Timișoara
-http://m0.bisericilive.com/video/harultmro/live/harultmro.m3u8
+https://harultmro.bisericilive.com/live/harultmro.m3u8
 Eclesia Timișoara
 http://server3.infoo.tv:1935/eclesia/live1/playlist.m3u8?dvr
 Stânca Timișoara
@@ -53,7 +53,7 @@ http://s1.stream.maghost.ro:1935/elim/smil:elim.smil/playlist.m3u8
 Poarta Cerului Timișoara
 https://poartaceruluiro.bisericilive.com/live/poartaceruluiro.m3u8
 Speranța Timișoara
-http://m0.bisericilive.com/video/sperantatmro/live/sperantatmro.m3u8
+https://sperantatmro.bisericilive.com/live/sperantatmro.m3u8
 Aletheia Timișoara
 http://server3.infoo.tv:1935/aletheia-tm/live1/playlist.m3u8?dvr
 Filadelfia Timișoara
@@ -67,7 +67,7 @@ http://server3.infoo.tv:1935/harul/live1/playlist.m3u8?dvr
 Dragostea Arad
 http://server3.infoo.tv:1935/dragostea/live1/playlist.m3u8?dvr
 Speranța Oradea
-http://m0.bisericilive.com/video/bbsoro/live/bbsoro.m3u8
+https://bbsoro.bisericilive.com/live/bbsoro.m3u8
 Betel Dublin
 http://iphone-streaming.ustream.tv/uhls/7158318/streams/live/iphone/playlist.m3u8?dvr
 - Radio -
