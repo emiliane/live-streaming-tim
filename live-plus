@@ -9,7 +9,7 @@ channeladress2=http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m
 channel3=Credo TV
 channeladress3=http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 channel4=Cireșarii TV
-channeladress4=https://ciresariitv.bisericilive.com/live/ciresariitv.m3u8
+channeladress4=https://ciresariitv.bisericilive.com/live/ciresariitv1/index.m3u8
 channel5=CBN TV
 channeladress5=http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
 channel6=CBN TV » NEWS
